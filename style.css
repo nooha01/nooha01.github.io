@@ -1,0 +1,200 @@
+#body{
+	background-color: rgba(30, 34, 77, 1);
+	
+	}
+	html {
+		/* To make use of full height of page*/
+		min-height: 100%;
+		
+		
+	}
+	body {
+		min-width: 100%;
+			
+	}
+
+#imag{
+position: absolute;
+left:0;
+top:285px;
+width:90%
+}
+
+a{
+	display: block;
+	border-radius: 5px;
+	color:azure;
+}
+a:hover{
+	color:rgb(36, 163, 163);
+	background: #eff;
+}
+#e3_1 { 
+	opacity:1;
+	
+	background-image:url(images/ep.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+#e2_5 { 
+	opacity:1;
+	
+}
+#e4_2 { 
+	color:rgba(229.00000154972076, 229.00000154972076, 229.00000154972076, 1);
+	opacity:1;
+	width:200px;
+	height:183px;
+	position:absolute;
+	left:900px;
+	top:167px;
+	font-family:'Segoe UI';
+	text-align:left;
+	font-size:147px;
+	letter-spacing:0;
+	line-height:undefined;
+	text-shadow: 2px 2px #00eeff;
+}
+
+#e4_3 { 
+	color:rgba(255, 255, 255, 1);
+	opacity:1;
+	width:607px;
+	height:90px;
+	position:absolute;
+	left:900px;
+	top:376px;
+	font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Geneva, Tahoma, sans-serif;
+	text-align:left;
+	font-size:35px;
+	letter-spacing:0;
+	line-height:undefined;
+}
+#e4_14 { 
+	opacity:1;
+	width:288px;
+	height:98.03921508789062px;
+	position:absolute;
+	left:1112px;
+	top:538px;
+}
+#e4_4 { 
+	background-color:rgba(23.000000528991222, 98.00000175833702, 135.00000715255737, 1);
+	opacity:1;
+	width:288px;
+	height:96.37753295898438px;
+	position:absolute;
+	left:900px;
+	top:1.6224365234375px;
+	border-top-left-radius:15px;
+	border-top-right-radius:15px;
+	border-bottom-left-radius:15px;
+	border-bottom-right-radius:15px;
+}
+#e4_13 { 
+	color:rgba(255, 255, 255, 1);
+	opacity:1;
+	width:283.2159423828125px;
+	height:98.03921508789062px;
+	position:absolute;
+	right:380px;
+	top:600px;
+z-index: 1;
+	font-family:Poppins;
+	text-align:center;
+	font-size:46px;
+	letter-spacing:0;
+	line-height:undefined;
+}
+#e4_15 { 
+	color:rgba(255, 255, 255, 1);
+	opacity:1;
+	width:256px;
+	height:114px;
+	position:absolute;
+	left:900px;
+	top:27px;
+	font-family:Roboto;
+	text-align:left;
+	font-size:48px;
+	letter-spacing:0;
+	line-height:undefined;
+}
+#e5_4 { 
+	opacity:1;
+	width:100px;
+	height:100px;
+	position:absolute;
+	left:786px;
+	top:250px;
+}
+#e4_17 { 
+	color:rgba(255, 255, 255, 1);
+	opacity:1;
+	width:214px;
+	height:114px;
+	position:absolute;
+	left:1293px;
+	top:27px;
+	font-family:Roboto;
+	text-align:left;
+	font-size:48px;
+	letter-spacing:0;
+	line-height:undefined;
+}
+#e23_4 { 
+	color:rgba(255, 255, 255, 1);
+	opacity:1;
+	width:200px;
+	height:200px;
+	position:absolute;
+	left:1100px;
+	top:27px;
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	text-align:left;
+	font-size:32px;
+	letter-spacing:0;
+	line-height:undefined;
+}
+#e23_5 { 
+	color:rgba(255, 255, 255, 1);
+	opacity:1;
+	width:214px;
+	height:114px;
+	position:absolute;
+	left:800px;
+	top:27px;
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	text-align:left;
+	font-size:32px;
+	letter-spacing:0;
+	line-height:undefined;
+}
+#e4_38 { 
+	opacity:1;
+	width:50px;
+	height:216px;
+	position:absolute;
+	left:42px;
+	top:27px;
+}
+#e4_34 { 
+	border-radius:500px;
+	opacity:1;
+	width:224px;
+	height:216px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+#e4_37 { 
+	opacity:1;
+	width:120.36276245117188px;
+	height:132.71641540527344px;
+	position:absolute;
+	left:76.98331451416016px;
+	top:57.14178466796875px;
+	background-image:url(images/ewomen_removebg_preview_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
